@@ -26,7 +26,7 @@
     chmod +x requirements.sh && sudo ./requirements.sh
     bash brute-f or ./brute-f
 
-#### use python version instead: https://github.com/johnsmith80/Brute-F-Python
 #### follow me on github:<img src="img/Octocat.png" width="25" > https://github.com/johnsmith80
+#### use python version instead: https://github.com/johnsmith80/Brute-F-Python
 #### Report any issue here: https://github.com/johnsmith80/Brute-F-Bash/issues
 ### Keep Hacking!
