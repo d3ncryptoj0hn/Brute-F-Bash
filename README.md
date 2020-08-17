@@ -17,7 +17,6 @@
 #### an SSH,HTTP,FTP Cracker
 #### Automation tool running with hydra <img src="img/0.svg" width="25" >
 #### This is the Bash version avalable to be executable.
-#### Bash version will be coming as soon as i post it.
 #### this is for education purposes only. im not responsible for any illegal used of this tool. 
 
 ### Installation:
