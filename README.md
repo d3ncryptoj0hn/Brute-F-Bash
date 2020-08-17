@@ -21,7 +21,7 @@
 
 ### Installation:
 
-    git clone https://github.com/johnsmith80/Brute-F.git
+    git clone https://github.com/johnsmith80/Brute-F-Bash.git
     cd Brute-F-Bash
     chmod +x requirements.sh
     bash Brute-F or ./Brute-F
