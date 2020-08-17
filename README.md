@@ -23,7 +23,7 @@
 
     git clone https://github.com/johnsmith80/Brute-F-Bash.git
     cd Brute-F-Bash
-    chmod +x requirements.sh
+    chmod +x requirements.sh && sudo ./requirements.sh
     bash Brute-F or ./Brute-F
 
 #### follow me on github:<img src="img/Octocat.png" width="25" > https://github.com/johnsmith80
